@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @margotgagnon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Image of Margot Gagnon](images/headshot.png "UConn MS Student Margot Gagnon")
 
-<!---
-margotgagnon/margotgagnon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a MS student in the UConn EEB department interested in wildlife conservation and ichthyology.
+
+[My CV](PDFs/cv.pdf)
+
+[Contact Info](contact-info.html) 
